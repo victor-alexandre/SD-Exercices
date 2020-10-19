@@ -1,0 +1,27 @@
+{
+  "name": "sd-exercice-16-10",
+  "version": "1.0.0",
+  "description": "Exercise for attendance in 16-10 class",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/victor-alexandre/SD-Exercices.git"
+  },
+  "keywords": [
+    "nodejs",
+    "REST",
+    "API"
+  ],
+  "author": "Victor Alexandre",
+  "license": "MIT",
+  "homepage": "https://github.com/victor-alexandre/SD-Exercices",
+  "dependencies": {
+    "mongoose": "^4.13.21",
+    "mongoose-auto-increment": "^5.0.1",
+    "restify": "^8.5.1",
+    "restify-swagger-jsdoc": "^3.2.4"
+  }
+}
