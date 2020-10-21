@@ -23,4 +23,4 @@ node app.js
 
 ## Documentação no Swagger
 
-http://localhost:8080/docs/swagger.
+http://localhost:8080/docs/swagger
